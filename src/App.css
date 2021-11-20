@@ -2,6 +2,22 @@
   text-align: center;
 }
 
+.imageDiv {
+  width: 65%;
+  height: 60%;
+  margin: auto;
+}
+
+.imageDiv img {
+  width: 100%;
+  height: 100%;
+}
+
+.para {
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
