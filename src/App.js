@@ -8,7 +8,7 @@ function App() {
       <div className='imageDiv'>
         <img src={joy_logo} alt='logo' />
         <p className='para'>
-          We are dressing up our website for you, come back soon...
+          The company to disrupt the technology, coming in March 2022...
         </p>
       </div>
     </div>
